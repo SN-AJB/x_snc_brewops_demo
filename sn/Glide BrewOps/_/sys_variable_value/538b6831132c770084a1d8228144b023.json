@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "cf8b6831132c770084a1d8228144b013",
+  "order": 25,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 00:58:21",
+  "sys_id": "538b6831132c770084a1d8228144b023",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 00:58:21",
+  "value": "{\"type\":\"ADV_NV\",\"value\":[]}",
+  "variable": "4328e2fb47222200b4fad7527c9a7164"
+}

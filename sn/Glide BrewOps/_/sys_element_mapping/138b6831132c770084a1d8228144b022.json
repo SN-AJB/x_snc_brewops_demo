@@ -1,0 +1,12 @@
+{
+  "field": "connection",
+  "id": "cf8b6831132c770084a1d8228144b013",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 00:58:21",
+  "sys_id": "138b6831132c770084a1d8228144b022",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 00:58:21",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": null
+}

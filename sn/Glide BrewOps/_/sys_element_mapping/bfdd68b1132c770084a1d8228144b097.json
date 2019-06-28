@@ -1,0 +1,12 @@
+{
+  "field": "body",
+  "id": "bfdd68b1132c770084a1d8228144b08c",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:08:29",
+  "sys_id": "bfdd68b1132c770084a1d8228144b097",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 01:08:29",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "{\n\"tank\":\"{{action.tank_to_fill_from.name}}\",\n\"filling_line\":\"{{action.destination_filling_line.serial_number}}\"\n}"
+}

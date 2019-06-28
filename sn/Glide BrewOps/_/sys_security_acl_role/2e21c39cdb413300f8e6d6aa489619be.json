@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-22 16:32:31",
+  "sys_id": "2e21c39cdb413300f8e6d6aa489619be",
+  "sys_mod_count": 0,
+  "sys_name": "x_snc_brewops_demo_brewing.x_snc_brewops_demo.user",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_security_acl_role_2e21c39cdb413300f8e6d6aa489619be",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-22 16:32:31",
+  "transaction_id": null
+}

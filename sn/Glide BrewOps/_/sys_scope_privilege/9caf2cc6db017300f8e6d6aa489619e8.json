@@ -1,0 +1,20 @@
+{
+  "operation": "execute",
+  "source_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "status": "allowed",
+  "sys_class_name": "sys_scope_privilege",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-27 16:26:02",
+  "sys_id": "9caf2cc6db017300f8e6d6aa489619e8",
+  "sys_mod_count": 0,
+  "sys_name": "ScriptableRESTMessageClient.setEndpoint",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_scope_privilege_9caf2cc6db017300f8e6d6aa489619e8",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-27 16:26:02",
+  "target_name": "ScriptableRESTMessageClient.setEndpoint",
+  "target_scope": "global",
+  "target_type": "scriptable"
+}

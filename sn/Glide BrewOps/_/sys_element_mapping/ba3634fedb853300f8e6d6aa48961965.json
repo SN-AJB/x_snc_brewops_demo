@@ -1,0 +1,12 @@
+{
+  "field": "name_value",
+  "id": "b23634fedb853300f8e6d6aa48961961",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-30 00:50:19",
+  "sys_id": "ba3634fedb853300f8e6d6aa48961965",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 00:50:19",
+  "table": "var__m_sys_flow_step_definition_input_2429af02b3331300176b051a16a8dcab",
+  "value": "{\"type\":\"ADV_NV\",\"value\":[{\"name\":\"amount\",\"value\":\"{{action.quantity_to_fill}}\",\"attributes\":{}},{\"name\":\"tank_sys_id\",\"value\":\"{{action.beer_source_tank}}\",\"attributes\":{\"omit_if_empty\":false}},{\"name\":\"filling_sys_id\",\"value\":\"{{action.filling_equipment}}\",\"attributes\":{\"omit_if_empty\":false}}]}"
+}

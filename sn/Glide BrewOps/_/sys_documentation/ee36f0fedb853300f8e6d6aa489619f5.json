@@ -1,0 +1,23 @@
+{
+  "element": "quantity_to_fill",
+  "help": null,
+  "hint": null,
+  "label": "Order Item Volume",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_aa36f0fedb853300f8e6d6aa489619e9",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-30 00:50:18",
+  "sys_id": "ee36f0fedb853300f8e6d6aa489619f5",
+  "sys_mod_count": 0,
+  "sys_name": "Order Item Volume",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_aa36f0fedb853300f8e6d6aa489619e9_quantity_to_fill_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 00:50:18",
+  "url": null,
+  "url_target": null
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "container",
+  "hint": null,
+  "inactive": false,
+  "label": "Barrel",
+  "language": "en",
+  "name": "x_snc_brewops_demo_order_item",
+  "sequence": 4,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-23 15:23:00",
+  "sys_id": "76babfe4db8d3300f8e6d6aa4896196a",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-23 15:23:33",
+  "value": 3968
+}

@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "012d925ddb413300f8e6d6aa4896193e",
+  "order": 200,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-25 16:29:03",
+  "sys_id": "0d2d925ddb413300f8e6d6aa4896193e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-25 16:29:03",
+  "value": null,
+  "variable": "27d4e1c25320220002c6435723dc3486"
+}

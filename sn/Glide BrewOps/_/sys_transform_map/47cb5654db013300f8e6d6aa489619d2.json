@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "copy_empty_fields": false,
+  "create_new_record_on_empty_coalesce_fields": false,
+  "enforce_mandatory_fields": "No",
+  "name": "consume models",
+  "order": 50,
+  "run_business_rules": true,
+  "run_script": false,
+  "script": {
+    "____see": "sn/Glide BrewOps/Table Transform Map/active_true/consume models.js"
+  },
+  "source_table": "x_snc_brewops_demo_brewops",
+  "sys_class_name": "sys_transform_map",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-22 13:49:42",
+  "sys_id": "47cb5654db013300f8e6d6aa489619d2",
+  "sys_mod_count": 0,
+  "sys_name": "consume models",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_transform_map_47cb5654db013300f8e6d6aa489619d2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-22 13:49:42",
+  "target_table": "cmdb_consumable_product_model"
+}

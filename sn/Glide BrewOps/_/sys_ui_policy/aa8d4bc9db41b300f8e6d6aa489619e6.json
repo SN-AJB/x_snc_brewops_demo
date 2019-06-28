@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "conditions": "install_status=1^EQ",
+  "description": null,
+  "global": true,
+  "inherit": false,
+  "isolate_script": true,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": false,
+  "run_scripts": false,
+  "script_false": {
+    "____see": "sn/Glide BrewOps/UI Policy/x_snc_brewops_demo_tank/active_true/Beer required for In Use/script_false.js"
+  },
+  "script_true": {
+    "____see": "sn/Glide BrewOps/UI Policy/x_snc_brewops_demo_tank/active_true/Beer required for In Use/script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Beer required for In Use",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-25 01:22:31",
+  "sys_id": "aa8d4bc9db41b300f8e6d6aa489619e6",
+  "sys_mod_count": 2,
+  "sys_name": "Beer required for In Use",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_ui_policy_aa8d4bc9db41b300f8e6d6aa489619e6",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-26 15:10:52",
+  "table": "x_snc_brewops_demo_tank",
+  "ui_type": 0,
+  "view": null
+}

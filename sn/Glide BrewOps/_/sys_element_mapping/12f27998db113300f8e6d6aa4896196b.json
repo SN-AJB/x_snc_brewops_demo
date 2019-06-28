@@ -1,0 +1,12 @@
+{
+  "field": "quantity_to_fill",
+  "id": "16f27998db113300f8e6d6aa48961969",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:06:36",
+  "sys_id": "12f27998db113300f8e6d6aa4896196b",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:06:36",
+  "table": "var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a",
+  "value": "{{7b4a8e16-4867-40e1-a299-a26447ef4f92.item.volume}}"
+}

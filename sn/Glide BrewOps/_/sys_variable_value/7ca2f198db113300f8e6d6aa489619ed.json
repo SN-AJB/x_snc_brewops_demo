@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_action_instance",
+  "document_key": "3ca2f198db113300f8e6d6aa489619eb",
+  "order": 0,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:05:08",
+  "sys_id": "7ca2f198db113300f8e6d6aa489619ed",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:05:08",
+  "value": "x_snc_brewops_demo_filling_equipment",
+  "variable": "79305e810b30030085c083eb37673a85"
+}

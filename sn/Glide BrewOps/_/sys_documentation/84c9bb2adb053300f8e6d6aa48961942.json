@@ -1,0 +1,23 @@
+{
+  "element": "beer_source_tank",
+  "help": null,
+  "hint": null,
+  "label": "Tank to fill from",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-29 20:26:05",
+  "sys_id": "84c9bb2adb053300f8e6d6aa48961942",
+  "sys_mod_count": 1,
+  "sys_name": "Tank to fill from",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a_beer_source_tank_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-29 20:39:50",
+  "url": null,
+  "url_target": null
+}

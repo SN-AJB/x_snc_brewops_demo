@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": "Styles = Stout",
+  "order": 4,
+  "parameters": null,
+  "sys_class_name": "sys_atf_parameter_set",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-04 15:39:56",
+  "sys_id": "3b780aeedba83300f8e6d6aa48961920",
+  "sys_mod_count": 0,
+  "sys_name": 4,
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_atf_parameter_set_3b780aeedba83300f8e6d6aa48961920",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-04 15:39:56",
+  "test": "fed6ca6edba83300f8e6d6aa48961918"
+}

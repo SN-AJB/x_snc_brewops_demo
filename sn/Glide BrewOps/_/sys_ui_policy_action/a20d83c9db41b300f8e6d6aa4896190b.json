@@ -1,0 +1,21 @@
+{
+  "cleared": false,
+  "disabled": "ignore",
+  "field": "container",
+  "mandatory": true,
+  "sys_class_name": "sys_ui_policy_action",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-25 01:20:12",
+  "sys_id": "a20d83c9db41b300f8e6d6aa4896190b",
+  "sys_mod_count": 2,
+  "sys_name": "container",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_ui_policy_action_a20d83c9db41b300f8e6d6aa4896190b",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-25 01:21:11",
+  "table": "x_snc_brewops_demo_order_item",
+  "ui_policy": "24ec8709db41b300f8e6d6aa48961903",
+  "visible": true
+}

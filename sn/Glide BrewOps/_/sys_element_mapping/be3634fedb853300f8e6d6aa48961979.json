@@ -1,0 +1,12 @@
+{
+  "field": "status_code",
+  "id": "aa36f0fedb853300f8e6d6aa489619e9",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-30 00:50:19",
+  "sys_id": "be3634fedb853300f8e6d6aa48961979",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 00:50:19",
+  "table": "var__m_sys_hub_action_output_aa36f0fedb853300f8e6d6aa489619e9",
+  "value": "{{step[9a4414d3-933b-456a-9b36-d91162b76f77].status_code}}"
+}

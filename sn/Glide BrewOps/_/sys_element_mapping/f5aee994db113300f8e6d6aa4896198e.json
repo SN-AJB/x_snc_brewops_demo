@@ -1,0 +1,12 @@
+{
+  "field": "conditions",
+  "id": "f9aee994db113300f8e6d6aa4896198c",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:47:44",
+  "sys_id": "f5aee994db113300f8e6d6aa4896198e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:47:44",
+  "table": "var__m_sys_hub_action_input_d1c56ec50b30030085c083eb37673a50",
+  "value": "order={{Updated_1.current}}"
+}

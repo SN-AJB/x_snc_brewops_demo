@@ -1,0 +1,18 @@
+{
+  "category": "x_snc_brewops_demo_order",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "ORD",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 23:50:05",
+  "sys_id": "1beb187113e8770084a1d8228144b097",
+  "sys_mod_count": 0,
+  "sys_name": "ORD",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_number_1beb187113e8770084a1d8228144b097",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 23:50:05"
+}

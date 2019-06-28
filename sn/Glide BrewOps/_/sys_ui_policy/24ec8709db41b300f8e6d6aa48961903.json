@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "conditions": "beerISNOTEMPTY^orderISNOTEMPTY^EQ",
+  "description": null,
+  "global": true,
+  "inherit": false,
+  "isolate_script": true,
+  "model_id": null,
+  "model_table": null,
+  "on_load": true,
+  "order": 100,
+  "reverse_if_false": true,
+  "run_scripts": false,
+  "script_false": {
+    "____see": "sn/Glide BrewOps/UI Policy/x_snc_brewops_demo_order_item/active_true/Beer and Order must exist/script_false.js"
+  },
+  "script_true": {
+    "____see": "sn/Glide BrewOps/UI Policy/x_snc_brewops_demo_order_item/active_true/Beer and Order must exist/script_true.js"
+  },
+  "set_values": null,
+  "short_description": "Beer and Order must exist",
+  "sys_class_name": "sys_ui_policy",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-25 01:19:47",
+  "sys_id": "24ec8709db41b300f8e6d6aa48961903",
+  "sys_mod_count": 0,
+  "sys_name": "Beer and Order must exist",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_ui_policy_24ec8709db41b300f8e6d6aa48961903",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-25 01:19:47",
+  "table": "x_snc_brewops_demo_order_item",
+  "ui_type": 0,
+  "view": null
+}

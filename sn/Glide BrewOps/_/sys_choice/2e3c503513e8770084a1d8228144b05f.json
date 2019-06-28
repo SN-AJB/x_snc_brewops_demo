@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "style",
+  "hint": null,
+  "inactive": false,
+  "label": "Lager",
+  "language": "en",
+  "name": "x_snc_brewops_demo_beer",
+  "sequence": 1,
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 23:51:23",
+  "sys_id": "2e3c503513e8770084a1d8228144b05f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 23:51:23",
+  "value": "lager"
+}

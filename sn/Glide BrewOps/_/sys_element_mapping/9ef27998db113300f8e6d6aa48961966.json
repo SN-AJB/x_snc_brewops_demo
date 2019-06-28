@@ -1,0 +1,12 @@
+{
+  "field": "destination_filling_line",
+  "id": "d2f27998db113300f8e6d6aa48961965",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:06:36",
+  "sys_id": "9ef27998db113300f8e6d6aa48961966",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:06:36",
+  "table": "var__m_sys_hub_action_input_700a64bd13e8770084a1d8228144b0cf",
+  "value": "{{24f6a82a-2ae4-4cfe-a125-981355cda4ae.Record}}"
+}

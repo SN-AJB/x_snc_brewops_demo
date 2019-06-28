@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "47cc2871132c770084a1d8228144b0c4",
+  "order": 20,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:59:37",
+  "sys_id": "0861fd18db113300f8e6d6aa489619f8",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:59:37",
+  "value": "/api/snc/brewery_operations/drainTank",
+  "variable": "3d090af03b23320057a4a2e334efc455"
+}

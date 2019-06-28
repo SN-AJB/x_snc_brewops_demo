@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_trigger_instance",
+  "document_key": "06aee994db113300f8e6d6aa489619a8",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:47:44",
+  "sys_id": "0eaee994db113300f8e6d6aa489619a9",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:47:44",
+  "value": "stateCHANGESTO2",
+  "variable": "bb9adea0c31322002841b63b12d3ae67"
+}

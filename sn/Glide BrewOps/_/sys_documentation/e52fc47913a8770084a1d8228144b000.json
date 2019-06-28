@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Filling Equipment",
+  "language": "en",
+  "name": "x_snc_brewops_demo_filling_equipment",
+  "plural": "Filling Equipments",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 22:54:16",
+  "sys_id": "e52fc47913a8770084a1d8228144b000",
+  "sys_mod_count": 0,
+  "sys_name": "Filling Equipment",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_x_snc_brewops_demo_filling_equipment__en",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 22:54:16",
+  "url": null,
+  "url_target": null
+}

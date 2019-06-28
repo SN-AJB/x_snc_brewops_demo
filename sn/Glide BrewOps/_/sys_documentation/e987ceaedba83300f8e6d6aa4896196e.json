@@ -1,0 +1,23 @@
+{
+  "element": "u_styles",
+  "help": null,
+  "hint": null,
+  "label": "Style Choices",
+  "language": "en",
+  "name": "var__m_sys_atf_parameter_variable_fed6ca6edba83300f8e6d6aa48961918",
+  "plural": "Style Choices",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-04 15:35:37",
+  "sys_id": "e987ceaedba83300f8e6d6aa4896196e",
+  "sys_mod_count": 1,
+  "sys_name": "Style Choices",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_atf_parameter_variable_fed6ca6edba83300f8e6d6aa48961918_u_styles_en",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-04 15:42:39",
+  "url": null,
+  "url_target": null
+}
