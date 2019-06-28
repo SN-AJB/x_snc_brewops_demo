@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": "6fa6f4c5dbc97300f8e6d6aa4896196e",
+  "description": "Pick a laptop and try to submit it as the brewing equipment",
+  "enable_parameterized_testing": false,
+  "name": "Accept Brewing CIs for Brewing Steps ",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-24 14:27:38",
+  "sys_id": "64c7b409dbc97300f8e6d6aa4896194e",
+  "sys_mod_count": 3,
+  "sys_name": "Accept Brewing CIs for Brewing Steps ",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_atf_test_64c7b409dbc97300f8e6d6aa4896194e",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-24 14:28:07"
+}

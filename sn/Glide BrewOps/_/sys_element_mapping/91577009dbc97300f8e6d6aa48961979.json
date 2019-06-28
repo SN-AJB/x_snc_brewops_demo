@@ -1,0 +1,12 @@
+{
+  "field": "record_id",
+  "id": "0a473cc5dbc97300f8e6d6aa48961982",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-24 14:25:46",
+  "sys_id": "91577009dbc97300f8e6d6aa48961979",
+  "sys_mod_count": 0,
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-24 14:25:46",
+  "table": "var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3",
+  "value": "{{step['4c37fcc5dbc97300f8e6d6aa489619c3'].record_id}}"
+}

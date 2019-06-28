@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "67d678c5dbc97300f8e6d6aa489619ff",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-24 14:23:57",
+  "sys_id": "7ae63c85dbc97300f8e6d6aa4896196e",
+  "sys_mod_count": 0,
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-24 14:23:57",
+  "value": "x_snc_brewops_demo_order",
+  "variable": "bb84ed825320220002c6435723dc3400"
+}

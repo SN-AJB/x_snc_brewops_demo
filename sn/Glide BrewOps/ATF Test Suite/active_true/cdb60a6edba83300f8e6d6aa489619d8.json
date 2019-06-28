@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "description": "Updated",
+  "input_filter": "sys_package=7c2e232d13e4770084a1d8228144b04d^EQ",
+  "name": "BrewOps Tests",
+  "parent": null,
+  "sys_class_name": "sys_atf_test_suite",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-04 15:32:34",
+  "sys_id": "cdb60a6edba83300f8e6d6aa489619d8",
+  "sys_mod_count": 7,
+  "sys_name": "BrewOps Tests",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_atf_test_suite_cdb60a6edba83300f8e6d6aa489619d8",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-28 21:43:47"
+}

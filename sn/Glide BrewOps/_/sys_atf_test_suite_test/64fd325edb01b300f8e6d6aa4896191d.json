@@ -1,0 +1,18 @@
+{
+  "abort_on_failure": false,
+  "order": null,
+  "sys_class_name": "sys_atf_test_suite_test",
+  "sys_created_by": "dave.slusher",
+  "sys_created_on": "2019-04-28 21:26:18",
+  "sys_id": "64fd325edb01b300f8e6d6aa4896191d",
+  "sys_mod_count": 0,
+  "sys_name": "cdb60a6edba83300f8e6d6aa489619d8",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_atf_test_suite_test_64fd325edb01b300f8e6d6aa4896191d",
+  "sys_updated_by": "dave.slusher",
+  "sys_updated_on": "2019-04-28 21:26:18",
+  "test": "c0e05a15db413300f8e6d6aa4896197e",
+  "test_suite": "cdb60a6edba83300f8e6d6aa489619d8"
+}
