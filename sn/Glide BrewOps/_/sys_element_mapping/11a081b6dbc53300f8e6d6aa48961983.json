@@ -1,0 +1,12 @@
+{
+  "field": "record",
+  "id": "99a081b6dbc53300f8e6d6aa4896197d",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-30 01:35:49",
+  "sys_id": "11a081b6dbc53300f8e6d6aa48961983",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 01:35:49",
+  "table": "var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4",
+  "value": "{{7b4a8e16-4867-40e1-a299-a26447ef4f92.item}}"
+}

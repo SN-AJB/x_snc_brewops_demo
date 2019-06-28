@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_trigger_instance",
+  "document_key": "1af27998db113300f8e6d6aa48961974",
+  "order": 1,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:06:36",
+  "sys_id": "d2f27998db113300f8e6d6aa48961976",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:06:36",
+  "value": "x_snc_brewops_demo_order",
+  "variable": "1dda12e0c31322002841b63b12d3aea8"
+}

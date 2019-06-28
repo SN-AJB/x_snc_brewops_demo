@@ -1,0 +1,12 @@
+{
+  "field": "filling_equipment",
+  "id": "0fff6dd4db113300f8e6d6aa48961978",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:53:33",
+  "sys_id": "8fff6dd4db113300f8e6d6aa4896197a",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:53:33",
+  "table": "var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a",
+  "value": "{{24f6a82a-2ae4-4cfe-a125-981355cda4ae.Record}}"
+}

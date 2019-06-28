@@ -1,0 +1,23 @@
+{
+  "element": "itype",
+  "help": null,
+  "hint": null,
+  "label": "itype",
+  "language": "en",
+  "name": "x_snc_brewops_demo_filling_equipment",
+  "plural": "itypes",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 22:27:00",
+  "sys_id": "4c658ad4db513300f8e6d6aa48961983",
+  "sys_mod_count": 1,
+  "sys_name": "itype",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_x_snc_brewops_demo_filling_equipment_itype_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 22:27:01",
+  "url": null,
+  "url_target": null
+}

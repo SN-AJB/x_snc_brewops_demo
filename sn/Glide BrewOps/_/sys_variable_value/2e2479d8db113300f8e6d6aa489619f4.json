@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_flow_logic",
+  "document_key": "6e2479d8db113300f8e6d6aa489619f2",
+  "order": 20,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:11:49",
+  "sys_id": "2e2479d8db113300f8e6d6aa489619f4",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:11:49",
+  "value": "{{b4da312f-436c-46ef-8a46-8666ff05514a.Records}}",
+  "variable": "19df9109c32632002841b63b12d3aed6"
+}

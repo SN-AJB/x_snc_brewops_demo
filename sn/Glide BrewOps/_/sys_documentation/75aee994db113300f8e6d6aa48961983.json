@@ -1,0 +1,23 @@
+{
+  "element": "table_name",
+  "help": null,
+  "hint": null,
+  "label": "Table Name",
+  "language": "en",
+  "name": "var__m_sys_hub_flow_input_35aee994db113300f8e6d6aa4896196f",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:47:44",
+  "sys_id": "75aee994db113300f8e6d6aa48961983",
+  "sys_mod_count": 0,
+  "sys_name": "Table Name",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_flow_input_35aee994db113300f8e6d6aa4896196f_table_name_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:47:44",
+  "url": null,
+  "url_target": null
+}

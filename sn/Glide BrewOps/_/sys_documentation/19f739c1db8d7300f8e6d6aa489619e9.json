@@ -1,0 +1,23 @@
+{
+  "element": "active",
+  "help": null,
+  "hint": null,
+  "label": "Active",
+  "language": "en",
+  "name": "x_snc_brewops_demo_beer",
+  "plural": "Active",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-24 19:08:06",
+  "sys_id": "19f739c1db8d7300f8e6d6aa489619e9",
+  "sys_mod_count": 0,
+  "sys_name": "Active",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_x_snc_brewops_demo_beer_active_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-24 19:08:06",
+  "url": null,
+  "url_target": null
+}

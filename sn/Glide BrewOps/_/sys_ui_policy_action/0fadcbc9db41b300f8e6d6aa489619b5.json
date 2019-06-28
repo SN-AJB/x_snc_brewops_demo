@@ -1,0 +1,21 @@
+{
+  "cleared": false,
+  "disabled": "ignore",
+  "field": "beer",
+  "mandatory": true,
+  "sys_class_name": "sys_ui_policy_action",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-25 01:22:52",
+  "sys_id": "0fadcbc9db41b300f8e6d6aa489619b5",
+  "sys_mod_count": 0,
+  "sys_name": "beer",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_ui_policy_action_0fadcbc9db41b300f8e6d6aa489619b5",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-25 01:22:52",
+  "table": "x_snc_brewops_demo_tank",
+  "ui_policy": "aa8d4bc9db41b300f8e6d6aa489619e6",
+  "visible": "ignore"
+}

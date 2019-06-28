@@ -1,0 +1,16 @@
+{
+  "id": "07f38294db513300f8e6d6aa489619d3",
+  "name": "Fulfil Order",
+  "sys_class_name": "sys_flow_cat_variable_model",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 22:20:56",
+  "sys_id": "8ff38294db513300f8e6d6aa489619d3",
+  "sys_mod_count": 0,
+  "sys_name": "Fulfil Order",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_flow_cat_variable_model_8ff38294db513300f8e6d6aa489619d3",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 22:20:56"
+}

@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "style",
+  "hint": null,
+  "inactive": false,
+  "label": "Hazy IPA",
+  "language": "en",
+  "name": "x_snc_brewops_demo_beer",
+  "sequence": 5,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-24 17:40:55",
+  "sys_id": "07e32105db4d7300f8e6d6aa489619fa",
+  "sys_mod_count": 2,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-24 17:41:10",
+  "value": "hazy_ipa"
+}

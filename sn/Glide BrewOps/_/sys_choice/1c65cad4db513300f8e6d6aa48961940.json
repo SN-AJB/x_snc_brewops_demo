@@ -1,0 +1,17 @@
+{
+  "dependent_value": null,
+  "element": "type",
+  "hint": null,
+  "inactive": false,
+  "label": "Mini Keg",
+  "language": "en",
+  "name": "x_snc_brewops_demo_filling_equipment",
+  "sequence": 0,
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 22:27:01",
+  "sys_id": "1c65cad4db513300f8e6d6aa48961940",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 22:32:53",
+  "value": "Mini Keg"
+}

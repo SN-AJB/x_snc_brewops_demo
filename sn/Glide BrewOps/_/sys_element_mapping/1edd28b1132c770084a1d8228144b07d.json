@@ -1,0 +1,12 @@
+{
+  "field": "resource_path",
+  "id": "02dd28b1132c770084a1d8228144b072",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:08:22",
+  "sys_id": "1edd28b1132c770084a1d8228144b07d",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 00:50:20",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "/api/snc/brewery_operations/equipmentControl{{action.filling_equipment.serial_number}}"
+}

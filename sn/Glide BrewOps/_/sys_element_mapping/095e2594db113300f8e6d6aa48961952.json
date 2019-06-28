@@ -1,0 +1,12 @@
+{
+  "field": "beer_source_tank",
+  "id": "495e2594db113300f8e6d6aa48961950",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 20:46:18",
+  "sys_id": "095e2594db113300f8e6d6aa48961952",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 20:46:18",
+  "table": "var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a",
+  "value": "{{06423353-ab63-4c85-afaf-879ebb543bb9.Record}}"
+}

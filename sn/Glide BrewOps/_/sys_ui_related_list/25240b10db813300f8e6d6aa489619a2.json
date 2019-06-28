@@ -1,0 +1,22 @@
+{
+  "calculated_name": "Beer - Default view",
+  "filter": null,
+  "name": "x_snc_brewops_demo_beer",
+  "order_by": null,
+  "position": null,
+  "related_list": null,
+  "sys_class_name": "sys_ui_related_list",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-22 16:45:33",
+  "sys_id": "25240b10db813300f8e6d6aa489619a2",
+  "sys_mod_count": 0,
+  "sys_name": "Beer - Default view",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_ui_related_x_snc_brewops_demo_beer_null",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-22 16:45:33",
+  "view": "Default view",
+  "view_name": null
+}

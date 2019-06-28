@@ -1,0 +1,16 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "a23634fedb853300f8e6d6aa4896193d",
+  "order": 600,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-30 00:50:19",
+  "sys_id": "7e3634fedb853300f8e6d6aa4896195f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-30 00:50:19",
+  "value": {
+    "____see": "sn/Glide BrewOps/Values/sys_hub_step_instance/7e3634fedb853300f8e6d6aa4896195f.js"
+  },
+  "variable": "71aa7f6647032200b4fad7527c9a719b"
+}

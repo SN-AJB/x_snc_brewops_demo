@@ -1,0 +1,23 @@
+{
+  "comment": null,
+  "display_text": null,
+  "flow": "c10d70b0db417300f8e6d6aa48961928",
+  "name": "Created or Updated",
+  "remote_sys_id": null,
+  "sys_class_name": "sys_hub_trigger_instance",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-23 21:44:00",
+  "sys_id": "c7021530db817300f8e6d6aa489619a0",
+  "sys_mod_count": 4,
+  "sys_name": "record_create_or_update",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_hub_trigger_instance_c7021530db817300f8e6d6aa489619a0",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-28 14:51:23",
+  "trigger_definition": "a45d9180c32222002841b63b12d3aea7",
+  "trigger_inputs": null,
+  "trigger_outputs": null,
+  "trigger_type": "record_create_or_update"
+}

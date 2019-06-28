@@ -1,0 +1,12 @@
+{
+  "field": "body",
+  "id": "47cc2871132c770084a1d8228144b0c4",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:03:48",
+  "sys_id": "c7cc2871132c770084a1d8228144b0d0",
+  "sys_mod_count": 1,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-29 20:26:21",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": "{{step[67e4146f-25b9-45c5-906f-7db24ac8e919].payload}}"
+}

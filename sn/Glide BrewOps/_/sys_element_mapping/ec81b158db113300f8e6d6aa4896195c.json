@@ -1,0 +1,12 @@
+{
+  "field": "tank_to_fill_from",
+  "id": "6c81b158db113300f8e6d6aa4896195a",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-04 21:00:12",
+  "sys_id": "ec81b158db113300f8e6d6aa4896195c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-04 21:00:12",
+  "table": "var__m_sys_hub_action_input_700a64bd13e8770084a1d8228144b0cf",
+  "value": "{{06423353-ab63-4c85-afaf-879ebb543bb9.Record}}"
+}

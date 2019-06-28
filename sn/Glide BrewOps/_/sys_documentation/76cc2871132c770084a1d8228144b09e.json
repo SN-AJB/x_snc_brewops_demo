@@ -1,0 +1,23 @@
+{
+  "element": "filling_equipment",
+  "help": null,
+  "hint": null,
+  "label": "Filling Equipment Line",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:03:47",
+  "sys_id": "76cc2871132c770084a1d8228144b09e",
+  "sys_mod_count": 1,
+  "sys_name": "Filling Equipment Line",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_dffb6831132c770084a1d8228144b02a_filling_equipment_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-29 20:39:50",
+  "url": null,
+  "url_target": null
+}
