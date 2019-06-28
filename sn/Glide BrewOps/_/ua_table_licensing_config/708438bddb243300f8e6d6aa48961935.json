@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_snc_brewops_demo_tank",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 22:06:09",
+  "sys_id": "708438bddb243300f8e6d6aa48961935",
+  "sys_mod_count": 0,
+  "sys_name": "x_snc_brewops_demo_tank",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "ua_table_licensing_config_708438bddb243300f8e6d6aa48961935",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 22:06:09"
+}

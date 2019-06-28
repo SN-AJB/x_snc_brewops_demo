@@ -1,0 +1,12 @@
+{
+  "field": "conditions",
+  "id": "feaee0f1132c770084a1d8228144b0a9",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:11:58",
+  "sys_id": "f6aee0f1132c770084a1d8228144b0af",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 01:11:58",
+  "table": "var__m_sys_hub_action_input_b93f42810b30030085c083eb37673a63",
+  "value": "beer={{7b4a8e16-4867-40e1-a299-a26447ef4f92.item.beer}}"
+}

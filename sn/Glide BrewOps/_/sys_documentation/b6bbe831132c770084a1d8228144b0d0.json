@@ -1,0 +1,23 @@
+{
+  "element": "result",
+  "help": null,
+  "hint": null,
+  "label": "Result",
+  "language": "en",
+  "name": "var__m_sys_hub_action_output_700a64bd13e8770084a1d8228144b0cf",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 00:59:08",
+  "sys_id": "b6bbe831132c770084a1d8228144b0d0",
+  "sys_mod_count": 0,
+  "sys_name": "Result",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_output_700a64bd13e8770084a1d8228144b0cf_result_en",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 00:59:08",
+  "url": null,
+  "url_target": null
+}

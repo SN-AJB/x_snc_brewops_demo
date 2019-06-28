@@ -1,0 +1,12 @@
+{
+  "field": "field_values",
+  "id": "64a9a0fd13e8770084a1d8228144b004",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 00:49:58",
+  "sys_id": "e4a9a0fd13e8770084a1d8228144b016",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 00:49:58",
+  "table": "var__m_sys_hub_action_input_3f9b1ff1531003003bf1d9109ec58775",
+  "value": "cmdb_ci={{Created or Updated_1.current}}^short_description=Maintenance Required on {{Created or Updated_1.current.name}}"
+}

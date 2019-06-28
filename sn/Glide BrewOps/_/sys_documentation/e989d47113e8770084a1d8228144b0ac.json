@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Order",
+  "language": "en",
+  "name": "x_snc_brewops_demo_order",
+  "plural": "Orders",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 23:39:35",
+  "sys_id": "e989d47113e8770084a1d8228144b0ac",
+  "sys_mod_count": 0,
+  "sys_name": "Order",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_x_snc_brewops_demo_order__en",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 23:39:35",
+  "url": null,
+  "url_target": null
+}

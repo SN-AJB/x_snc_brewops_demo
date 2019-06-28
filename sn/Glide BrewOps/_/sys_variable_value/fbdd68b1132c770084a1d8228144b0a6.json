@@ -1,0 +1,14 @@
+{
+  "document": "sys_hub_step_instance",
+  "document_key": "bfdd68b1132c770084a1d8228144b08c",
+  "order": 5,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:08:29",
+  "sys_id": "fbdd68b1132c770084a1d8228144b0a6",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 01:08:29",
+  "value": "define_connection_inline",
+  "variable": "91e207d03b50030057a4a2e334efc4a0"
+}

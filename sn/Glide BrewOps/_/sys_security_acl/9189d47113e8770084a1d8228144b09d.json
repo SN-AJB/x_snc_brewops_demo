@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on x_snc_brewops_demo_order",
+  "name": "x_snc_brewops_demo_order",
+  "operation": "delete",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-01 23:39:34",
+  "sys_id": "9189d47113e8770084a1d8228144b09d",
+  "sys_mod_count": 0,
+  "sys_name": "x_snc_brewops_demo_order",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_security_acl_9189d47113e8770084a1d8228144b09d",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-01 23:39:34",
+  "type": "record"
+}

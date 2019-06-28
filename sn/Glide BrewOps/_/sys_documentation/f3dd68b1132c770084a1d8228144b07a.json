@@ -1,0 +1,23 @@
+{
+  "element": "destination_filling_line",
+  "help": null,
+  "hint": null,
+  "label": "Destination filling line",
+  "language": "en",
+  "name": "var__m_sys_hub_action_input_6bdd68b1132c770084a1d8228144b06c",
+  "plural": null,
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:08:28",
+  "sys_id": "f3dd68b1132c770084a1d8228144b07a",
+  "sys_mod_count": 0,
+  "sys_name": "Destination filling line",
+  "sys_package": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_policy": null,
+  "sys_scope": "7c2e232d13e4770084a1d8228144b04d",
+  "sys_update_name": "sys_documentation_var__m_sys_hub_action_input_6bdd68b1132c770084a1d8228144b06c_destination_filling_line_en",
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 01:08:28",
+  "url": null,
+  "url_target": null
+}

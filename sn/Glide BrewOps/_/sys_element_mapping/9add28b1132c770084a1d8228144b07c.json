@@ -1,0 +1,12 @@
+{
+  "field": "capabilities",
+  "id": "02dd28b1132c770084a1d8228144b072",
+  "sys_created_by": "jason.mckee",
+  "sys_created_on": "2019-04-02 01:08:22",
+  "sys_id": "9add28b1132c770084a1d8228144b07c",
+  "sys_mod_count": 0,
+  "sys_updated_by": "jason.mckee",
+  "sys_updated_on": "2019-04-02 01:08:22",
+  "table": "var__m_sys_flow_step_definition_input_07a762fb47222200b4fad7527c9a7129",
+  "value": null
+}
